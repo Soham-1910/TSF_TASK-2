@@ -1,1 +1,3 @@
-# TSF_TASK-2
+# Payment-Gateway-Integration
+
+Payment Gateway Integration is developed using HTML,CSS. for payment gateway , Razorpay is used.
